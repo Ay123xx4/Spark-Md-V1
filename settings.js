@@ -15,8 +15,8 @@ global.ownernomer = '2348146671727'
 global.socialm = 'https://github.com/voltagefx12'
 global.location = 'Nigeria' 
 //========================setting Payment=====================\\
-global.nodana = '7045989058' // IT'S BLANK IF IT'S NOT EXISTING
-global.nogopay = '7045989058' // IT'S BLANK IF IT'S NOT EXISTING 
+global.nodana = '8146671727 Opay akinola Mayowa Awosina' // IT'S BLANK IF IT'S NOT EXISTING
+global.nogopay = '8146671727 Opay akinola Mayowa Awosina' // IT'S BLANK IF IT'S NOT EXISTING 
 global.noovo = '' // IT'S BLANK IF IT'S NOT EXISTING
 //==================setting Payment Name===========================\\
 global.andana = '' // IT'S BLANK IF IT'S NOT EXISTING
